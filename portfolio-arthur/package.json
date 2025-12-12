@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-arthur-alves",
+  "version": "1.0.0",
+  "description": "Portfolio pessoal de Arthur Alves - Desenvolvedor",
+  "main": "index.html",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "serve": "python -m http.server 8000",
+    "dev": "npm run build && npm run serve"
+  },
+  "keywords": [
+    "portfolio",
+    "typescript",
+    "html",
+    "css",
+    "desenvolvedor"
+  ],
+  "author": "Arthur Alves",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
