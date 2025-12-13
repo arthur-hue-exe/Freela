@@ -157,10 +157,9 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ## 👨‍💻 Autor
 
 **Arthur Alves**
-- Portfolio: [Seu site]
-- LinkedIn: [Seu LinkedIn]
-- GitHub: [Seu GitHub]
-- Email: arthur@exemplo.com
+- LinkedIn: https://www.linkedin.com/in/arthur-alves-043739355/)
+- GitHub: https://github.com/arthur-hue-exe/
+- Email: arthursilvaneves15@gmail.com
 
 ---
 
